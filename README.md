@@ -1,1 +1,1 @@
-# jahongir
+# salom mening ismim Jahongir

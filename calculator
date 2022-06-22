@@ -1,0 +1,12 @@
+print("calculator")
+Bson = int(input ("1-sonni kiriting: "))
+Ison = int(input("2-sonni kiriting: "))
+amal = input("arefmetik amalni kiriting: ")
+if amal == "+":
+  print(Bson+Ison)
+elif amal == "-":
+  print(Bson-Ison)
+elif amal == "/":
+  print(Bson/Ison)
+elif amal == "*":
+  print(Bson*Ison)
